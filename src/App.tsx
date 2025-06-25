@@ -61,7 +61,7 @@ function App() {
           <div className="mb-6">
             <div className="inline-flex items-center bg-gray-800 rounded-full px-4 py-2 mb-6">
               <div className="w-3 h-3 bg-orange-500 rounded-sm mr-3"></div>
-              <span className="text-gray-300 text-sm">不仅仅是代币，更是人格</span>
+              <span className="text-gray-300 text-sm">不仅仅是代币，更是个性化智能体</span>
             </div>
           </div>
 
@@ -76,7 +76,7 @@ function App() {
           </p>
 
           <button className="bg-orange-500 hover:bg-orange-600 text-black font-bold text-lg px-12 py-4 rounded-full transition-colors">
-            加入候补名单
+            加入等候名单
           </button>
         </div>
 
