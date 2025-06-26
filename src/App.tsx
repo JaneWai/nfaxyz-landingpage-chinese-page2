@@ -66,9 +66,10 @@ function App() {
           </div>
 
           <h1 className="text-7xl font-bold leading-tight mb-8">
-            <span className="text-orange-500">不是</span><br />
-            <span className="text-white">金融</span><br />
-            <span className="text-orange-500">建议</span>
+            <span className="text-orange-500">NOT</span><br />
+            <span className="text-white">FINANCIAL</span><br />
+            <span className="text-orange-500">ADVICE</span><br />
+            <span className="text-white text-5xl">非投资建议</span>
           </h1>
 
           <p className="text-gray-400 text-lg mb-12">
@@ -100,7 +101,7 @@ function App() {
               <div className="text-right">
                 <div className="inline-flex items-center bg-gray-800 rounded-full px-4 py-2 mb-4">
                   <div className="w-3 h-3 bg-white rounded-sm mr-3"></div>
-                  <span className="text-gray-300 text-sm">模因就绪且</span>
+                  <span className="text-gray-300 text-sm">自带梗点，</span>
                 </div>
                 <div className="text-gray-300 text-sm">社区原生</div>
               </div>
@@ -124,7 +125,7 @@ function App() {
       {/* Large background text */}
       <div className="absolute inset-0 flex items-center justify-center pointer-events-none overflow-hidden">
         <div className="text-9xl font-bold text-gray-900/10 whitespace-nowrap transform rotate-0">
-          不是金融建议 不是金融建议 不是金融建议
+          NOT FINANCIAL ADVICE 非投资建议 NOT FINANCIAL ADVICE 非投资建议 NOT FINANCIAL ADVICE 非投资建议
         </div>
       </div>
     </div>
